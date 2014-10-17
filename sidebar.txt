@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ths:home|Door43 (ths)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ths|d43-ths repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ths/archive/master.zip|d43-ths.zip]]
+
+**Recent Changes**
+{{changes>ns = ths}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ths|Ethnologue data]]
+
